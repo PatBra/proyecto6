@@ -10,7 +10,7 @@
 6. Contáctame
                 
 
-#H1 Imagen de pagina de inicio
+# Imagen de pagina de inicio
 ![](https://patbra.github.io//proyecto6/assets/imgs/home.JPG)
 
 
